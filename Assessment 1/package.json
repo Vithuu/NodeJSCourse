@@ -1,0 +1,15 @@
+{
+  "name": "assessment-1",
+  "version": "1.0.0",
+  "description": "Creation of a basic app with three routes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Vithusha Sivakumaran",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^1.19.4"
+  }
+}
